@@ -5,6 +5,8 @@ nuclear with WMIC TECHNOLOGY. I DON'T KNOW WHAT THIS IT..... MY PC IS HOME ALWAY
 Панель управления\Все элементы панели управления\Диспетчер учетных данных
 SSO_POP_disabler.exe - отключает 3 учетки каждые 5 секунд
 
+wmic MicrosoftAccount:target=SSO_POP_Device
+
 Хакеры удалили исходники, та бы ло всего три строчки кода....
 
 МОРФИУС ЭТО ТЫ???
