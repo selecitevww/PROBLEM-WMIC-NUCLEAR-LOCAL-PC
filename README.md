@@ -6,7 +6,8 @@ nuclear with WMIC TECHNOLOGY. I DON'T KNOW WHAT THIS IT..... MY PC IS HOME ALWAY
 SSO_POP_disabler.exe - отключает 3 учетки каждые 5 секунд
 Не работает если включена функция изоляция памяти и отключен файл подкачки. 
 >wmic MicrosoftAccount:target=SSO_POP_Device
-Failed to allocate Memory!!!
+
+>Failed to allocate Memory!!!
 
 
 Вообще wmic раньше использовался для доступа шпионов к вашему пк. 
